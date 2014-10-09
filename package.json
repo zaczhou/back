@@ -1,0 +1,29 @@
+{
+  "name": "back",
+  "version": "0.0.1",
+  "description": "work for back",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "express": "^4.9.6",
+    "gulp": "~3.8.8"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.8"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zaczhou/back.git"
+  },
+  "keywords": [
+    "zac"
+  ],
+  "author": "zac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zaczhou/back/issues"
+  },
+  "homepage": "https://github.com/zaczhou/back"
+}
