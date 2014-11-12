@@ -39,3 +39,8 @@ app.use('/wechat', wechat('some token', function (req, res, next) {
     ]);
   }
 }));
+
+
+var server = app.listen(80, function() {
+  console.log('Listening on port %d', server.address().port);
+});
